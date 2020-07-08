@@ -6,3 +6,21 @@ $accent-color:         #448AFF;
 $primary-text-color:   #212121;
 $secondary-text-color: #757575;
 $divider-color:        #BDBDBD;
+//Menu
+html{
+    font-size: 10 px;
+}
+body {
+    font-size: 16 px;
+    background-color: $divider-color;
+    color: $secondary-text-color;
+    .navbar
+    {
+        padding: 0.3rem 5rem;
+    }
+    .container
+    {
+        padding: 0.3rem 5rem;
+    }
+}
+//header

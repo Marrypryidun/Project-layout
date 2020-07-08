@@ -1,1 +1,18 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+html {
+  font-size: 10 px;
+}
+
+body {
+  font-size: 16 px;
+  background-color: #BDBDBD;
+  color: #757575;
+}
+
+body .navbar {
+  padding: 0.3rem 5rem;
+}
+
+body .container {
+  padding: 3rem 5rem;
+}
+/*# sourceMappingURL=main.css.map */
